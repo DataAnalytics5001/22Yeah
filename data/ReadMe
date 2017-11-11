@@ -1,0 +1,5 @@
+Training Data: tr_data_20170128
+
+Test Phase: For each user id listed in tst_user_20170128, recommend 5 articles from tst_article_20170128. The precision and recall will be calculated in this test data.
+
+The data is updated as Json format. And the training data incldues all records from 20170110 to 20170128. The test include the records from 20170129 to 20170131.

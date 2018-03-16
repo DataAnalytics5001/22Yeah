@@ -9,4 +9,4 @@ behavior and content reading behavior. The objective of our project is to predic
 the preference of users on given articles and recommend each user top-five
 articles that the user may interested in.
 
-# For more information, please refer to the poster in the folder
+For more information, please refer to the poster
